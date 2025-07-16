@@ -1,0 +1,5 @@
+Best Configuration:
+Speed (v): 10 km/h
+Temperature (T): 18 °C
+Electric hours (h): 5 hrs
+Total Energy: 22.5 units
