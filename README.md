@@ -39,4 +39,3 @@ to find the most energy-efficient configuration.
 ### 🔗 Author
 
 Parand Khani — PhD Student @ University of Messina  
-Feel free to use or extend this work with citation.
